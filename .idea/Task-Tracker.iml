@@ -79,5 +79,6 @@
     <orderEntry type="library" name="Maven: org.jspecify:jspecify:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:7.0.8" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.11.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.mysql:mysql-connector-j:9.7.0" level="project" />
   </component>
 </module>

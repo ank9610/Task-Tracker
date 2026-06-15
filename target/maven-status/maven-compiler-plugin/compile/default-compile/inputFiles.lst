@@ -1,1 +1,8 @@
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Config/SpringSecurity.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Controller/PingController.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Controller/TaskController.java
 /Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/DemoApplication.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Model/Task.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Repository/TaskRepository.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Service/Impl/TaskServiceImpl.java
+/Users/ankitsinha/Desktop/Projects/Task-Tracker/Task-Tracker/src/main/java/com/example/test/tracker/demo/Service/TaskService.java

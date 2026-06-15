@@ -1,1 +1,8 @@
+com/example/test/tracker/demo/Model/Task.class
+com/example/test/tracker/demo/Service/Impl/TaskServiceImpl.class
+com/example/test/tracker/demo/Config/SpringSecurity.class
 com/example/test/tracker/demo/DemoApplication.class
+com/example/test/tracker/demo/Repository/TaskRepository.class
+com/example/test/tracker/demo/Controller/PingController.class
+com/example/test/tracker/demo/Controller/TaskController.class
+com/example/test/tracker/demo/Service/TaskService.class
